@@ -14,3 +14,4 @@
 
 ## [G] [Beutiful Matrix](https://codeforces.com/contest/263/problem/A)
 
+## [H] [Petya and Strings](https://codeforces.com/contest/112/problem/A)
