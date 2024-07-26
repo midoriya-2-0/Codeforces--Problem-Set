@@ -12,3 +12,5 @@
 
 ## [F] [Domino piling](https://codeforces.com/contest/50/problem/A)
 
+## [G] [Beutiful Matrix](https://codeforces.com/contest/263/problem/A)
+
