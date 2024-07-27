@@ -21,11 +21,11 @@ int main()
 
         if (str.length() > 10)
         {
-            cout << str[0] << str.length() - 2 << str[str.length() - 1] << endl;
+            cout << str[0] << str.length() - 2 << str[str.length() - 1] << '\n';
         }
         else
         {
-            cout << str << endl;
+            cout << str << '\n';
         }
     }
 

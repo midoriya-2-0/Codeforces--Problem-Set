@@ -26,7 +26,7 @@ int main()
         }
     }
 
-    cout << count << '\n';
+    cout << count << endl;
 
     return 0;
 }

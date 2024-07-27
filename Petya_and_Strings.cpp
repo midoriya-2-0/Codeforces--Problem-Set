@@ -27,14 +27,14 @@ int main()
     // The comparison is done lexicographically, meaning that the characters are compared one by one.
     if (s1 < s2)
     {
-        cout << -1 << endl;
+        cout << -1 << '\n';
     }
     else if (s1 > s2)
     {
-        cout << 1 << endl;
+        cout << 1 << '\n';
     }
     else
     {
-        cout << 0 << endl;
+        cout << 0 << '\n';
     }
 }

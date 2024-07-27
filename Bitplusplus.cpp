@@ -29,5 +29,5 @@ int main()
         }
     }
 
-    cout << count << endl;
+    cout << count << '\n';
 }

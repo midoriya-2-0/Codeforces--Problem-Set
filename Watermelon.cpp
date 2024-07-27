@@ -16,11 +16,11 @@ int main()
 
     if (w % 2 == 0 && w > 2)
     {
-        cout << "YES" << endl;
+        cout << "YES" << '\n';
     }
     else
     {
-        cout << "NO" << endl;
+        cout << "NO" << '\n';
     }
 
     return 0;
