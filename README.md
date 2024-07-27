@@ -15,3 +15,5 @@
 ## [G] [Beutiful Matrix](https://codeforces.com/contest/263/problem/A)
 
 ## [H] [Petya and Strings](https://codeforces.com/contest/112/problem/A)
+
+## [I] [Helpful Maths](https://codeforces.com/contest/339/problem/A)
