@@ -17,3 +17,13 @@
 ## [H] [Petya and Strings](https://codeforces.com/contest/112/problem/A)
 
 ## [I] [Helpful Maths](https://codeforces.com/contest/339/problem/A)
+
+## [J] [Word Capitalization](https://codeforces.com/contest/281/problem/A)
+
+## [K] [Boy or Girl](https://codeforces.com/contest/236/problem/A)
+
+## [L] [Bear and Big Brother](https://codeforces.com/contest/791/problem/A)
+
+## [M] [Stones on the Table](https://codeforces.com/contest/266/problem/A)
+
+## [N] [Elephant](https://codeforces.com/contest/617/problem/A)
