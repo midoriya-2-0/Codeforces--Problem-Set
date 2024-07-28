@@ -26,4 +26,4 @@
 
 ## [M] [Stones on the Table](https://codeforces.com/contest/266/problem/A)
 
-## [N] [Elephant](https://codeforces.com/contest/617/problem/A)
+## [N] [elephant](https://codeforces.com/contest/617/problem/A)
