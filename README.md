@@ -1,6 +1,6 @@
 # Codeforces - Problem Set
 
-## [1] [Watermelon](https://codeforces.com/contest/4/problem/A)
+## [4A] [Watermelon](https://codeforces.com/contest/4/problem/A)
 
 ## [2] [Way Too Long Words](https://codeforces.com/contest/71/problem/A)
 
