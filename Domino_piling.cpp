@@ -13,4 +13,6 @@ int main()
     int m, n;
     cin >> m >> n;
     cout << (m * n) / 2 << '\n';
+
+    return 0;
 }

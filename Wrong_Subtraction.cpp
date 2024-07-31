@@ -7,29 +7,26 @@ void fastIO()
     cin.tie(0);
     cout.tie(0);
 }
+
 int main()
 {
     fastIO();
-    int tc;
-    cin >> tc;
+    int n, k;
+    cin >> n >> k;
 
-    int count = 0;
-    while (tc--)
+    while (k--)
     {
-        string str;
-        cin >> str;
-
-        if (str[2] == '+' || str[0] == '+')
+        if (n % 10 == 0)
         {
-            count++;
+            n /= 10;
         }
         else
         {
-            count--;
+            n--;
         }
     }
 
-    cout << count << '\n';
+    cout << n << '\n';
 
     return 0;
 }

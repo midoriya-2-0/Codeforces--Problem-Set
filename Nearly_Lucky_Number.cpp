@@ -7,29 +7,30 @@ void fastIO()
     cin.tie(0);
     cout.tie(0);
 }
+
 int main()
 {
     fastIO();
-    int tc;
-    cin >> tc;
+    string n;
+    cin >> n;
 
     int count = 0;
-    while (tc--)
+    for (int i = 0; i < n.size(); i++)
     {
-        string str;
-        cin >> str;
-
-        if (str[2] == '+' || str[0] == '+')
+        if (n[i] == '4' || n[i] == '7')
         {
             count++;
         }
-        else
-        {
-            count--;
-        }
     }
 
-    cout << count << '\n';
+    if (count == 4 || count == 7)
+    {
+        cout << "YES\n";
+    }
+    else
+    {
+        cout << "NO\n";
+    }
 
     return 0;
 }

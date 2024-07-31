@@ -30,4 +30,6 @@ int main()
     //! The Manhattan distance between two points is the sum of the absolute differences of their coordinates.
     //! In this case, the Manhattan distance between the point (x, y) and the point (3, 3) is |x - 3| + |y - 3|.
     cout << abs(x - 3) + abs(y - 3) << '\n';
+
+    return 0;
 }
