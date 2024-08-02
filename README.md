@@ -41,3 +41,9 @@
 ## [41A]  [Translation](https://codeforces.com/contest/41/problem/A)
 
 ## [116A] [Tram](https://codeforces.com/contest/116/problem/A)
+
+## [677A] [Vanya and Fence](https://codeforces.com/contest/677/problem/A)
+
+## [271A] [Beautiful Year](https://codeforces.com/contest/271/problem/A)
+
+## [266B] [Queue at the School](https://codeforces.com/contest/266/problem/B)
