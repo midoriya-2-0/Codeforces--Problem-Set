@@ -47,3 +47,5 @@
 ## [271A] [Beautiful Year](https://codeforces.com/contest/271/problem/A)
 
 ## [266B] [Queue at the School](https://codeforces.com/contest/266/problem/B)
+
+## [1030A] [In Search of an Easy Problem](https://codeforces.com/contest/1030/problem/A)
