@@ -49,3 +49,13 @@
 ## [266B] [Queue at the School](https://codeforces.com/contest/266/problem/B)
 
 ## [1030A] [In Search of an Easy Problem](https://codeforces.com/contest/1030/problem/A)
+
+## [467A] [George and Accommodation](https://codeforces.com/contest/467/problem/A)
+
+## [344A] [Magnets](https://codeforces.com/contest/344/problem/A)
+
+## [486A] [Calculating Function](https://codeforces.com/contest/486/problem/A)
+
+## [136A] [Presents](https://codeforces.com/contest/136/problem/A)
+
+## [200B] [Drinks](https://codeforces.com/contest/200/problem/B)
